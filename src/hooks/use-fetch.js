@@ -38,7 +38,7 @@ const useFetch = (applyData) => {
     isLoading,
     error,
     sendRequest,
-    abortRequest: abortRequest,
+    abortRequest,
   };
 };
 
